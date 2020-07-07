@@ -15,4 +15,5 @@ script:
   - cd ./build/
   - cmake ../source/
   - cmake --build .
+  - ./out
 ...
